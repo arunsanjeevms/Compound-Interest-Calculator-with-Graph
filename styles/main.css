@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700;900&display=swap");
+
+/*-----------------------------------*\
+   Arun Sanjeev
+\*-----------------------------------*
+
+
+
+/*-----------------------------------*\
+  Github: @arunsanjeevms
+\*-----------------------------------*/
+
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 40px;
+}
+
+.calculator {
+  width: 40%;
+  color: #063102;
+}
+
+.heading h5,h1 {
+  font-size: 25px;
+  color: #0c8d00;
+}
+#message {
+  font-size: 20px;
+  color: #063102;
+}
+
+.input-group {
+  margin: 20px 0;
+}
+
+.input-group label {
+  display: block;
+}
+
+.input-group input,
+.input-group button,
+.input-group select {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #0c8d00;
+  outline: none;
+  border-radius: 5px;
+}
+.input-group button {
+  background-color: #0c8d00;
+  color: #fff;
+}
+
+.results {
+  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.09);
+  width: 50%;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.footer-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.copyright {
+  flex: 0 0 500px;
+}
+
+.tit{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 25px;
+}
