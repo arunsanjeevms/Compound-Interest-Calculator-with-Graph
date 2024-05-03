@@ -2,6 +2,8 @@
 
 <img src="Compound Interest Calculator.png">
 
+<b>Explore My Project by visiting this</b> https://tinyurl.com/cmpdintcalc
+
 <b>📈 Welcome to the Compound Interest Calculator project! In this comprehensive tool, you'll experience the power of compounding at your fingertips. Here's how it works:</b>
 
 <b>Input Parameters:</b> Start by entering your principal amount 💵, the number of years you want to calculate ⏳, and the interest rate 📊. These are the building blocks for your financial journey.
